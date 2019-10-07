@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tech site </title>
+</head>
+<body>
+<h1>Tech-Central</h1>
+<nav class="list">
+  <ul>
+          <li class="list">Tech News</li>
+          <li class="list">Gadget News</li>
+          <li class="list">Android News</li>
+          <li class="list">Apple News</li>
+          <li class="list">CSOM News</li>
+      </ul>
+ </nav>
+
+<p>  </p>
+<p>This is a paragraph.</p>
+<p> </p>
+<p> </p>
+
+
+</body>
+</html>
