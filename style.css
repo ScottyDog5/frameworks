@@ -1,0 +1,58 @@
+main {
+    width: 1000px;
+    height:1000px;
+  }
+
+nav {
+background-color:black;
+}
+
+.bigphone {
+width: 60%;
+height: 35%;
+}
+
+.heading
+{
+background-color: lightgrey;
+
+
+}
+
+.phone
+{width: 25%;
+float: left;
+display: inline;
+}
+
+.toptext{
+  width: 35%;
+float: right;
+
+}
+
+ .bottomtext {
+  width: 24%;
+float: left;
+display: inline;
+margin-right: 10px;
+}
+
+
+.list {
+display: inline;
+color: white;
+}
+
+
+.Loren {
+  float: left;
+display: inline;
+width: 25%;
+}
+
+
+.tophead {
+  float: right;
+  margin-right: 100px;
+}
